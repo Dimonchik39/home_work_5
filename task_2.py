@@ -41,6 +41,9 @@ else:
     print(f'Первым будет ходить {gamer_2}')
     
 def text_print(name, counter, amount):
+    '''
+    Функция печати
+    '''
     print(f'Конфет осталось: {amount} шт. Всего конфет у {name}: {counter} шт.')
 
 count_1 = 0 
